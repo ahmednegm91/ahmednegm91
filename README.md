@@ -20,18 +20,15 @@ I'm an AI automation and n8n specialist working with freelance clients since 202
 
 ## Featured projects
 
-These projects represent areas of freelance automation work. Detailed case studies are being prepared.
+### [Intelligent Invoice Processing](https://github.com/ahmednegm91/intelligent-invoice-processing)
+
+A personal n8n and Google Gemini demonstration for bilingual invoice extraction, arithmetic checks and duplicate lookup, with new records marked for review. Explore the [repository](https://github.com/ahmednegm91/intelligent-invoice-processing) or watch the [screenshot-based walkthrough](https://github.com/ahmednegm91/intelligent-invoice-processing/blob/main/demo/invoice-processing-visual-walkthrough.mp4). The public exports require reconnection and have not been independently tested end to end after import.
 
 ### Omnichannel AI Customer Service & Booking Hub
-An automation project focused on customer service and booking across channels.
+An automation project focused on customer service and booking across channels. A detailed case study is being prepared.
 
 ### AI Revenue Operations: Lead-to-Cash
-An automation project focused on the lead-to-cash process.
-
-### Intelligent Invoice & Document Processing
-An automation project focused on invoice and document processing.
-
-For a public learning example, see [n8n IT Helpdesk Automation: Ticket Triage & Escalation](https://github.com/ahmednegm91/learning-journey/tree/main/projects/n8n-helpdesk-automation). It uses fictional examples and is presented as a demonstration, not a client deployment.
+An automation project focused on the lead-to-cash process. A detailed case study is being prepared.
 
 ## Technical expertise
 

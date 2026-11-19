@@ -2,7 +2,7 @@
 
 **AI Automation & n8n | Workflow Automation | IT Administration**
 
-I help organizations bring AI and workflow automation into practical business operations, drawing on freelance client work and a background in IT administration.
+I design custom AI automation solutions around each client's business needs, connecting workflows, APIs and human decision points. These portfolio demonstrations show approaches that can be adapted to different requirements.
 
 [Portfolio & résumé](https://alive-paprika-ffc.notion.site/Ahmed-Negm-41979ae387808083b153e28e919d0919) · [Email me](mailto:ahmednegm91@gmail.com) · Cairo, Egypt
 
@@ -24,11 +24,13 @@ I'm an AI automation and n8n specialist working with freelance clients since 202
 
 A personal n8n and Google Gemini demonstration for bilingual invoice extraction, arithmetic checks and duplicate lookup, with new records marked for review. Explore the [repository](https://github.com/ahmednegm91/intelligent-invoice-processing) or watch the [screenshot-based walkthrough](https://github.com/ahmednegm91/intelligent-invoice-processing/blob/main/demo/invoice-processing-visual-walkthrough.mp4). The public exports require reconnection and have not been independently tested end to end after import.
 
-### Omnichannel AI Customer Service & Booking Hub
-An automation project focused on customer service and booking across channels. A detailed case study is being prepared.
+### [AI Revenue Operations & Lead-to-Cash Automation](https://github.com/ahmednegm91/ai-lead-to-cash-automation)
 
-### AI Revenue Operations: Lead-to-Cash
-An automation project focused on the lead-to-cash process. A detailed case study is being prepared.
+A six-workflow n8n demonstration covering lead qualification, proposal drafts, human sales and finance approvals, and manually recorded payments. Its local simulator passed 39 scenarios. Provider calls and live financial integrations require separate testing.
+
+### [AI Customer Support & Message Triage](https://github.com/ahmednegm91/ai-customer-support-triage)
+
+An Arabic-first, bilingual support demonstration with knowledge-grounded drafts, Gemini and Groq fallback, escalation, and simulated delivery across channel adapters. Its offline suite passed 72 checks. Live Gmail, Telegram and WhatsApp delivery remains unverified.
 
 ## Technical expertise
 
